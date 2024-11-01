@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900;900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900;900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap'); */
+
+.navbar{
+    background: #F1F1F1;
+    
+}
+
+.navLinks{
+    display: flex;
+    flex-direction:row;
+    list-style: none;
+    justify-content: end;
+    margin: auto;
+    padding: 30px;
+    align-items: end;
+    gap: 40px;
+    background: #F1F1F1
+}
+
+.link{
+    font-family: inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24.2px;
+    text-align: left;
+}
+
+.main-hero{
+    background: #F1F1F1;
+    padding: 50px;
+}
+
+.hero-section{
+    display: flex;
+    flex-direction: row;
+    margin-left: 250px;
+    justify-content: space-between;
+    }
+
+
+.hero-heading{
+    font-family: Heebo;
+font-size: 48px;
+font-weight: 900;
+line-height: 61px;
+letter-spacing: 2px;
+text-align: left;
+width: 521px;
+height: 124px;
+}
+
+.hero-para{
+    font-family: Heebo;
+font-size: 16px;
+font-weight: 400;
+line-height: 23.5px;
+text-align: left;
+width: 497px;
+height: 66px;
+}
+
+.hero-image{
+    margin-right: 300px;
+}
+
+.hero-button{
+    background: #F98585;
+    width: 205px;
+    height: 50px;
+    font-family: Heebo;
+font-size: 18px;
+font-weight: 500;
+line-height: 26.44px;
+text-align: center;
+color:#FFFFFF;
+}
+
+.rp-main{
+    background: var(--secoundry, #F4E2E2);
+    height: 800px;
+    
+}
+.rp-section{
+    margin-left: 237px;
+    margin-right: 237px;
+}
+
+.rp-text{
+    display: flex;
+    justify-content: space-between;
+}
+
+.rp-heading{
+font-family: Heebo;
+font-size: 22px;
+font-weight: 500;
+line-height: 32.31px;
+text-align: left;
+}
+
+.rp-button{
+    color:#F98585;
+font-family: Heebo;
+font-size: 22px;
+font-weight: 500;
+line-height: 32.31px;
+text-align: left;
+background: transparent;
+border: none;
+}
+
+.rpcard-rectangle{
+    background: #FFFFFF;
+    width: 380px;
+    height: 300px;
+}
+
+.rpcard-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+/* .rpcard {
+    display: flex;
+    
+} */
+
+.main-fw{
+    background: #F1F1F1;
+    justify-content: space-around;
+}
+
+.fw-containers{
+    width: 800px;
+    height: 600px;
+    margin-left: 237px;
+    padding: 50px 0;
+    ;
+    
+}
+
+.fw-1 {
+    display: flex;
+    gap: 20px;
+}
+.fw-2 {
+    display: flex;
+    gap: 20px;
+}
+.fw-3 {
+    display: flex;
+    gap: 20px;
+}
+
+.sub-headings{
+    display: flex;
+    gap: 30px;
+}
+
+.fcard-heading2 {
+    font-family: Heebo;
+font-size: 18px;
+font-weight: 700;
+line-height: 26.44px;
+text-align: left;
+color: #FFFFFF;
+background: #F98585;
+width: 68px;
+height: 26px;
+text-align: center;
+border-radius: 15px;
+}
+
+.fcard-heading3{
+    font-family: Heebo;
+font-size: 20px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+color: #0000009E;
+;
+
+}
+
+.main-footer{
+    background: #F1F1F1;  
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    height: 243px;
+}
+
+.footerIcons{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
