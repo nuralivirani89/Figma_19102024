@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900;900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900;900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900;900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 .navbar{
     background: #F1F1F1;
@@ -123,10 +123,6 @@ border: none;
     justify-content: center;
     align-items: center;
 }
-/* .rpcard {
-    display: flex;
-    
-} */
 
 .main-fw{
     background: #F1F1F1;
@@ -137,9 +133,7 @@ border: none;
     width: 800px;
     height: 600px;
     margin-left: 237px;
-    padding: 50px 0;
-    ;
-    
+    padding: 50px 0;   
 }
 
 .fw-1 {
@@ -160,8 +154,8 @@ border: none;
     gap: 30px;
 }
 
-.fcard-heading2 {
-    font-family: Heebo;
+.fcard-heading2{
+font-family: Heebo;
 font-size: 18px;
 font-weight: 700;
 line-height: 26.44px;
@@ -181,8 +175,6 @@ font-weight: 400;
 line-height: 20px;
 text-align: left;
 color: #0000009E;
-;
-
 }
 
 .main-footer{

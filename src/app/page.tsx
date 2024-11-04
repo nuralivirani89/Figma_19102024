@@ -1,5 +1,3 @@
-#! usr/bin/env node
-
 import Image from "next/image"
 import Rpcard from "@/component/rpcard"
 import Fcard from "@/component/fcard"
